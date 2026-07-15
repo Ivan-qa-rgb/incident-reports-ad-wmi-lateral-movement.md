@@ -1,1 +1,0 @@
-# incident-reports-ad-wmi-lateral-movement.md
