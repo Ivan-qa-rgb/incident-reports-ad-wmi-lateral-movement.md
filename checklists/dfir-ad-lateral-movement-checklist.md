@@ -1,4 +1,4 @@
-# Чеклист DFIR: Компрометация учётной записи AD и WMI Lateral Movement
+# DFIR чек-лист (Blue Team): компрометация AD-учётки и WMI lateral movement
 
 ## 1. Обнаружение и первичный триаж
 
